@@ -55,7 +55,7 @@ Resources used while preparing for and during the PWK Lab  --> 54/54 lab boxes r
   - 1639 - My first root on system #2!
   - 1723 - Unprivileged shell on system #3!! 
   - 1740 - I found the privesc but for some reason stopped trying after it failed (misunderstanding the error). I spent the next 2 hours digging around/rerunning the same survey commands before I moved on to system #4
-  - 1948 - * Around this time I started with the "time sink" (system #4). I learned a VERY valuable lesson here. IF something doesn't seem right, ask!!! Yes the motto is "TRY HARDER!". HOWEVER, if there is 1000% no way a box is vulnerable to anything... ASK THE PROCTOR if something is broken! Better to ask and be told everything is working as intended instead of spending 7+ hours trying to find a vulnerability that's not there.
+  - 1948 - * Around this time I started with the "time sink" (system #4). I learned a VERY valuable lesson here. IF something doesn't seem right, ask!!! Yes the motto is "TRY HARDER!". HOWEVER, if there is 1000% no way a box is vulnerable to anything... ASK THE PROCTOR if something is broken! Better to ask and be told everything is working as intended instead of spending 7+ hours trying to find a vulnerability that's not there
   - 2015 - Thankfully my first run in with the time sink didn't last long. Moving on to system #5
   - 2059 - Unprivileged shell on system #5!!!
   - 2144 - Root on system 5!!! 
@@ -80,4 +80,3 @@ Resources used while preparing for and during the PWK Lab  --> 54/54 lab boxes r
   - There is an /r/oscp, but the community is better on discord
   - Make a plan and stick to it. I bought 90 days of lab time, but didn't need it all. I decided I wanted to spend 30-40 hours a week in the lab, on top of a full time job. Over my 9 weeks I was in the lab as little as 32 hours and as many as 64 hours, one Saturday I was in the lab for 16 hours! Most weekends were 8+ a day, twice I rooted 4 boxes in a day, in total I spent 392 hours in the lab
   - From your very first box you go after, get in the habit of documenting the commands you ran, take screenshots of them and the output (unless they're not on the path to root), screenshotting your proof, etc. Don't wait until the exam to start
-  
