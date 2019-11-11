@@ -1,4 +1,3 @@
-Tools for windows:
   - privesc
   - dumping creds
   - transferring files
