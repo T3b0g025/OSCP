@@ -1,6 +1,6 @@
 # Penetreation Testing with Kali Linux & OSCP Certification
 
-Resources used while prepareing for and during the PWK Lab.
+Resources used while prepareing for and during the PWK Lab. 54/54 lab boxes rooted, 4/5 exam hosts* 
 
 
 3 months out:
