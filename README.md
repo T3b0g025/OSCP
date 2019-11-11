@@ -40,7 +40,7 @@ Motivation? 12 May - 31 May
 - Getting burnt out is real, after rooting my last box I took a week off to decompress. Afterwards I finsihed on my lab report, re-did the buffer overflow and dostackbufferoverflowgood to make sure my template and methodolgy was good. I also reviewed my notes from some of the harder boxes I ran across in the lab.
 
 Ready? 6 June 19
-- I stocked up on energy drinks (Bang[300mg caffine] and Monster[140mg caffine]), along with sushi, and pizza. My plan was to eat a normal breakfast with a bang around 10:30, have sushi around 3pm with a monster arund 6pm and cold pizza for dinner. Wake up and drink a bank, quickly eat some pizza and get right back to it. The goal was quick non greasy meals leaving more time to take the test. TONS of caffine.
+- I stocked up on energy drinks (Bang[300mg caffine] and Monster[140mg caffine]), along with sushi, and pizza. My plan was to eat a normal breakfast with a bang around 10:30, have sushi around 3pm with a monster arund 6pm and cold pizza for dinner. Wake up and drink a bank, quickly eat some pizza and get right back to it. The goal was quick non greasy meals leaving more time to take the test. TONS of caffine. Short 5 minute brakes randomly.
 
 SET! 7 June 19
 - I scheduled my exam to start at noon. 15 minutes prior the email came, everything was setup in minutes, followed by the remaining minutes just waiting. I followed the general advice that you find online; start your scans in the background (Autorecon is great for this) and then started the buffer overflow box. 
@@ -63,6 +63,18 @@ SET! 7 June 19
   - 0748 - Jumped back to system #3, an hour later I revisited my failed privesc from earlier. I decided to try things differently
   - 8:57 - Root on syetem #3!!! What a feeling! Assuming I didn't screw up my exam report, I just passed OSCP! 
   - 9:10 - After confirming I had all the screenshots and commands I ran docuemented I jumped back to system #4. Obviously I got nowhere and wasted the remaining time in my exam
-  
-  - The exam report was easy enough, I grabbed all the screenshots and commands that were needed while I was taking the test. The video came in handy for seeing why my buffer overflow failed the first time, and for writing this up.
+   - The exam report was easy enough, I grabbed all the screenshots and commands that were needed while I was taking the test. The video came in handy for seeing why my buffer overflow failed the first time, and for writing this up.
 
+
+Take aways:
+  - Use the discord group, it's more active then the official forums. There is a strict zero tolerance policy towards cheating and you will get banned from it
+  - Speaking of forums, use them! They are a resource, just like any blog/video/etc you find. If I was stuck on a lab box for 40+ minutes I'd go read a hint. If you're stuck and don't know where to look next, a hint which leads to rooting a box provides a better learning opprotunity then never rooting it
+  - Autorecon is great, but if youre not comfortable reading nmap/tool output it won't be useful
+  - Offsec IRC is dead. stay away
+  - Skip documenting the exercises. I was obsessed with making sure I'd pass and if I needed, the bonus points would save me. After speaking with numerous people who passed, if you're relying on 5 bonus points to pass then you still have mnore to learn in the lab
+  - Don't count an unpriviliged shell on a system for any points in the exam, Offsec has never said they are worth half points. Maybe one is worth 3 and another is worth 15. Everyone who passes has a different experience, you should focus on rooting all the boxes. Not finishing with a root, 4 unpriviliged shells, and 5 bonus points only to post on /r/oscp "Do I have enough to pass?!"
+  - Speaking of /r/oscp, there are only 4 types on posts there:
+    1. "I got XX roots and XX unpriviliged shells, do I have enoguh to pass?!"
+    2. "Am I ready?" (if you're asking.. nope!)
+    3. "Here's my OSCP Review"
+    4. "Look at this semi useful tool I wrote"
