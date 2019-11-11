@@ -78,3 +78,5 @@ Take aways:
     2. "Am I ready?" (if you're asking.. nope!)
     3. "Here's my OSCP Review"
     4. "Look at this semi useful tool I wrote"
+  - Make a plan and stick to it. I bought 90 days of lab time, but didn't need it all. I decided I wanted to spend 30-40 hours a week in the lab, ontop of a full time job. Over my 9 weeks I was in the labs as little as 32 hours and as many as 64 hours, one Saturday I was in the lab for 16 hours! Most weekends were 8+ a day, in total I spent 392 hours in the lab.
+  
