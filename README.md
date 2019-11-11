@@ -21,7 +21,7 @@ Resources used while prepareing for and during the PWK Lab  --> 54/54 lab boxes 
 
 0 day: 2 March 19
 - The first 8 days of my time was spent going through the pdf, exerecises and videos. I'd read a chapter in the pdf, watch the videos, and do the exercises in that order. I wasn't able to finish all exercises in thoese 9 days, but I did continue working on them randomly when I needed a break from the lab. Eventually I got them all finished and documented for the extra points (I'd NOT recommend going for the 5 points, for myself it took almost 2 days to document and format the report). On day 9 I rooted my first lab machine and finished all the exercises.
-- There are 4 ranges within the lab: the first if the biggest an your VPN will land you in it, the second network consists of a few hosts, the third also has a few hosts but also a connection to an inner network. 
+- There are 4 ranges within the lab: the first if the biggest an your VPN will land you in it, the second network consists of a few hosts, the third has a few more hosts than the second but also has a connection to an inner network. 
 
 Jumping in! 11 March - 10 April
 - Because I'm bad with decisions, I moved on 11 March and didn't get internet installed for 3 days. Duiring that time I rewatched the Buffer Overflow video a few times, taking notes and walked through dostackbufferoverflowgood several times. During the next 28 days I gained access to the 2 smaller networks rooting 28 boxes over 150 hours of lab time.
@@ -38,15 +38,11 @@ Finishing strong! 11 April - 11 May
 Motivation? 12 May - 31 May
 - Getting burnt out is real, after rooting my last box I took a week off to decompress. Afterwards I finsihed on my lab report, re-did the buffer overflow and dostackbufferoverflowgood to make sure my template and methodolgy was good. I also reviewed my notes from some of the harder boxes I ran across in the lab.
 
-End Game: 7 June 19
-- I scheduled my exam to start at noon. 
+Ready? 6 June 19
+- I stocked up on energy drinks (Bang and Monster), along with suchi, and pizza. My plan was to eat my normal breakfast with a bang, have sushi for lunch with a monster in the late afternoon. Cold pizza in the evening and for breakfast the next morning with another bang to finish the exam.
+
+GO! 7 June 19
+- I scheduled my exam to start at noon. 15 minutes prior the email came, everything was setup in minutes, followed by the remaining minutes just waiting. 
 
 
 
-
-
-
-
-
-  
-  
