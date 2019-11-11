@@ -24,6 +24,8 @@ Resources used while preparing for and during the PWK Lab  --> 54/54 lab boxes r
 - At this point I had around 20 boxes rooted in HTB and another 26 in VHL. I felt like I had a good beginner knowledge base for the upcoming lab. At this point I downloaded the PWK VM, set it up to my liking (config files, settings, NO UPDATES, etc) and took the rest of the week off to relax.
 - I did not do any kind of cloud syncing, I just ran a backup script every evening before I suspended my VM which saved everything to a share drive.
 
+***
+
 #### 0 day: 2 March 19
 - The first 8 days of my time was spent going through the pdf, exercises and videos. I'd read a chapter in the pdf, watch the videos, and do the exercises in that order. I wasn't able to finish all exercises in those 9 days, but I did continue working on them randomly when I needed a break from the lab. Eventually I got them all finished and documented for the extra points (I'd NOT recommend going for the 5 points, for myself it took almost 2 days to document and format the report). On day 9 I rooted my first lab machine and finished all the exercises.
 - There are 4 ranges within the lab: the first if the biggest an your VPN will land you in it, the second network consists of a few hosts, the third has a few more hosts than the second but also has a connection to an inner network. 
