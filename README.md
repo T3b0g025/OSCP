@@ -39,10 +39,26 @@ Motivation? 12 May - 31 May
 - Getting burnt out is real, after rooting my last box I took a week off to decompress. Afterwards I finsihed on my lab report, re-did the buffer overflow and dostackbufferoverflowgood to make sure my template and methodolgy was good. I also reviewed my notes from some of the harder boxes I ran across in the lab.
 
 Ready? 6 June 19
-- I stocked up on energy drinks (Bang and Monster), along with suchi, and pizza. My plan was to eat my normal breakfast with a bang, have sushi for lunch with a monster in the late afternoon. Cold pizza in the evening and for breakfast the next morning with another bang to finish the exam.
+- I stocked up on energy drinks (Bang[300mg caffine] and Monster[140mg caffine]), along with sushi, and pizza. My plan was to eat a normal breakfast with a bang around 10:30, have sushi around 3pm with a monster arund 6pm and cold pizza for dinner. Wake up and drink a bank, quickly eat some pizza and get right back to it. The goal was quick non greasy meals leaving more time to take the test. TONS of caffine.
 
 GO! 7 June 19
-- I scheduled my exam to start at noon. 15 minutes prior the email came, everything was setup in minutes, followed by the remaining minutes just waiting. 
+- I scheduled my exam to start at noon. 15 minutes prior the email came, everything was setup in minutes, followed by the remaining minutes just waiting. I followed the general advice that you find online; start your scans in the background (Autorecon is great for this) and then started the buffer overflow box. 
 
-
-
+- Timestamps are from my recorded session
+  - 1200 - START
+  - 1400 - I still had not got a shell on the first box (ridiculous...mistake looking back) so I moved on 
+  - 1639 - My first root on system #2!
+  - 1723 - Unpriviliged shell on system #3!! 
+  - 1740 - I found the privesc but for some reason stopped trying after it failed (misunderstanding the error). I spent the next 2 hours digging around/rerunning the same survey command before I moved on to system #4
+  - 1948 - Around this time I started with the "time sink" (system #4). I learned a VERY valuable lesson here. IF something doesn't seem right, ask!!! Yes the motto is "TRY HARDER!". HOWEVER, if there is 1000% no way a box is vulnerable to anything... ASK THE PROCTOR if something is broken! My mistake was to "tRy HaRdErErErEr"... there HAS to be a vulnerableity, right? WRONG. Sometimes testing environments don't have all the kinks worked out. Better to ask and be told everything is working as intended instead of spending 7+ hours trying to find a vulnerability thats not there.
+  - 2015 - Thankfully my first run in with the time sink didn't last long. Moving on to syetem #5
+  - 2059 - Unpriviliged shell on system #5!!!
+  - 2144 - Root on system 5!!! 
+  - 2157 - At this point I reverted system #4 because who knows. Maybe the running config was busted (Offsec said you didn't have to revert them), and I started my scan over for system #4
+  - 2210 - After messing around for 2 hours earlier to get a simple buffer overflow to work, I was obviously missing somehting. So I did something radical. I deleted everything and started from scratch. BEST. IDEA. EVER. Sometimes you just have to start over instead of trying to find your error
+  - 2311 - Rooted system #1!! At this point I had 55 points, if I could just root system #3 I would have 80 points and pass.
+  - 0200 - For the next 3 hours I jumped around reading every file from system #4's scan results over and over and over, trying everything I saw online. Drained, I took a 4 hour nap.
+  - 0620 - Started again, right back at system #4...
+  - 0748 - Jumped back to system #3, an hour later I revisited my failed privesc from earlier. I decided to try things differently
+  - 8:57 - Root on syetem #3!!! What a feeling! Assuming I didn't screw up my exam report, I just passed OSCP! 
+  - 9:10 - After confirming I had all the screenshots and commands I ran docuemented I jumped back to system #4. Obviously I got nowhere and wasted the remaining time in my exam. 
