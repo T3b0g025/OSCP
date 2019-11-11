@@ -1,0 +1,4 @@
+- Bookmarks created during prep and during my time in the lab
+- tmux help file
+- BOF template (can you find my error?)
+- lab/exam template for taking notes
