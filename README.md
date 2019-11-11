@@ -1,6 +1,8 @@
 # Penetration Testing with Kali Linux & OSCP Certification
 
-Resources used while preparing for and during the PWK Lab  --> 54/54 lab boxes rooted, 4/5 exam hosts* 
+```
+54/54 lab boxes rooted, 4/5 exam hosts* 
+```
 
 ### Prior Experience:
 - Using MS08_067 a few times
