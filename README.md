@@ -5,6 +5,7 @@ Resources used while prepareing for and during the PWK Lab  --> 54/54 lab boxes 
 Prior Experience:
 - Using MS08_067 a few times
 - 3 months linux/windows basic admin expereience: adding users, moving around via commandline, configuring networking
+- Want to learning some penetration testing with plenty of free time after work
 
 3 months out:
 - I purchased a VIP subscription to hackthebox (HTB) and worked my way through some of the recommended boxes. I worked my way from the easier boxes to the harder ones. At first I would follow along with IppSec's videos, eventually leading to only watching the videos when I got stuck or after I rooted the box to see what I might have missed.
