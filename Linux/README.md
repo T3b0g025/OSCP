@@ -1,1 +1,3 @@
-Useful tools for linux privesc 
+Tools for:
+- privesc
+- exploring new networks
