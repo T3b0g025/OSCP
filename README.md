@@ -30,7 +30,7 @@ Jumping in! 11 March - 10 April
   - https://discord.gg/qm9fxYU
   - https://github.com/Tib3rius/AutoRecon
   
-  Finishing strong! 11 April - 11 May
+Finishing strong! 11 April - 11 May
 - Around this time I updated my computer (again bad with decisions) from a 2015 MacBook Pro to a beast (i9 9900k, 32gb RAM, 1tb 970 evo m.2, 2080ti, 2x Asus pg279qz, uplift sit/stand desk). A day was spent building and installing software, I knew I was going to wipe the desktop after the exam so software installation was quick.
 - Early on I finished up both of the smaller networks, and gained access to the inner network. While the inner network seems to be less populated there were new techniques and concepts taught here which were not ocvered elsewhere in the labs. Definitly make an attempt to get here.
 - After 185 hours I rooted 25 more boxes, bringing my total to 54. There IS a 55th box, however it's not "official" and not many people have rooted it. When I was last in the lab I was able to connect to the vulnerabler service, I'm able to get the exploit to work locally with a replicated VM, but I'm unable to exploit the service in the lab. Close but oh well. 
