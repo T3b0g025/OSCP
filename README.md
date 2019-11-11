@@ -51,7 +51,7 @@ SET! 7 June 19
   - 1639 - My first root on system #2!
   - 1723 - Unpriviliged shell on system #3!! 
   - 1740 - I found the privesc but for some reason stopped trying after it failed (misunderstanding the error). I spent the next 2 hours digging around/rerunning the same survey command before I moved on to system #4
-  - 1948 - Around this time I started with the "time sink" (system #4). I learned a VERY valuable lesson here. IF something doesn't seem right, ask!!! Yes the motto is "TRY HARDER!". HOWEVER, if there is 1000% no way a box is vulnerable to anything... ASK THE PROCTOR if something is broken! My mistake was to "tRy HaRdErErErEr"... there HAS to be a vulnerableity, right? WRONG. Sometimes testing environments don't have all the kinks worked out. Better to ask and be told everything is working as intended instead of spending 7+ hours trying to find a vulnerability thats not there.
+  - 1948 - * Around this time I started with the "time sink" (system #4). I learned a VERY valuable lesson here. IF something doesn't seem right, ask!!! Yes the motto is "TRY HARDER!". HOWEVER, if there is 1000% no way a box is vulnerable to anything... ASK THE PROCTOR if something is broken! Better to ask and be told everything is working as intended instead of spending 7+ hours trying to find a vulnerability thats not there.
   - 2015 - Thankfully my first run in with the time sink didn't last long. Moving on to syetem #5
   - 2059 - Unpriviliged shell on system #5!!!
   - 2144 - Root on system 5!!! 
@@ -68,15 +68,11 @@ SET! 7 June 19
 
 Take aways:
   - Use the discord group, it's more active then the official forums. There is a strict zero tolerance policy towards cheating and you will get banned from it
-  - Speaking of forums, use them! They are a resource, just like any blog/video/etc you find. If I was stuck on a lab box for 40+ minutes I'd go read a hint. If you're stuck and don't know where to look next, a hint which leads to rooting a box provides a better learning opprotunity then never rooting it
+  - Speaking of forums, use them! They are a resource, just like any blog/video/etc you find. If I was stuck on a lab box for 40+ minutes I'd go read a hint. If you're stuck and don't know where to look next, a hint which leads to rooting a box provides a better learning opprotunity then never rooting it would
   - Autorecon is great, but if youre not comfortable reading nmap/tool output it won't be useful
-  - Offsec IRC is dead. stay away
+  - Offsec IRC is dead
   - Skip documenting the exercises. I was obsessed with making sure I'd pass and if I needed, the bonus points would save me. After speaking with numerous people who passed, if you're relying on 5 bonus points to pass then you still have mnore to learn in the lab
-  - Don't count an unpriviliged shell on a system for any points in the exam, Offsec has never said they are worth half points. Maybe one is worth 3 and another is worth 15. Everyone who passes has a different experience, you should focus on rooting all the boxes. Not finishing with a root, 4 unpriviliged shells, and 5 bonus points only to post on /r/oscp "Do I have enough to pass?!"
-  - Speaking of /r/oscp, there are only 4 types on posts there:
-    1. "I got XX roots and XX unpriviliged shells, do I have enoguh to pass?!"
-    2. "Am I ready?" (if you're asking.. nope!)
-    3. "Here's my OSCP Review"
-    4. "Look at this semi useful tool I wrote"
-  - Make a plan and stick to it. I bought 90 days of lab time, but didn't need it all. I decided I wanted to spend 30-40 hours a week in the lab, ontop of a full time job. Over my 9 weeks I was in the labs as little as 32 hours and as many as 64 hours, one Saturday I was in the lab for 16 hours! Most weekends were 8+ a day, in total I spent 392 hours in the lab.
+  - Don't count an unpriviliged shell on a system for any points in the exam, Offsec has never said they are worth half points. Maybe one is worth 3 and another is worth 15. Everyone who passes has a different experience, you should focus on rooting all the boxes
+  - There is an /r/oscp, but the community is better on discord
+  - Make a plan and stick to it. I bought 90 days of lab time, but didn't need it all. I decided I wanted to spend 30-40 hours a week in the lab, ontop of a full time job. Over my 9 weeks I was in the lab as little as 32 hours and as many as 64 hours, one Saturday I was in the lab for 16 hours! Most weekends were 8+ a day, in total I spent 392 hours in the lab.
   
