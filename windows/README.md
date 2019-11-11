@@ -1,5 +1,6 @@
 Tools for windows:
-- privesc
-- dumping creds
-- transfering files
-- pivoting to other hosts
+  - privesc
+  - dumping creds
+  - transferring files
+  - pivoting to other hosts
+    
