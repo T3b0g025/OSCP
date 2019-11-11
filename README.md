@@ -2,8 +2,7 @@
 
 Resources used while preparing for and during the PWK Lab  --> 54/54 lab boxes rooted, 4/5 exam hosts* 
 
-
-Prior Experience:
+### Prior Experience:
 - Using MS08_067 a few times
 - 3 months linux/windows basic admin experience: adding users, moving around via command line, configuring networking
 - Want to learning some penetration testing with plenty of free time after work
